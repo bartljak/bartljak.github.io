@@ -9,7 +9,7 @@ name: Jacob Bartles
 description: C-STEM Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/bartljak/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/bartljak/bartljak.github.io/master/images/profile.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: bartljak
   instagram:
-  linkedin:
+  linkedin: jacob-bartles
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
