@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a blog to keep track of my progess as I work on development for the C-STEM research team. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently I am working as a CSDT for Scratch 3.0. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bartlj4@rpi.edu](mailto:bartlj4@rpi.edu)
