@@ -1,0 +1,13 @@
+---
+layout: post
+title: April 4th-April 11th
+---
+
+This week I worked on two main issues for the scratch-gui vm. The first issue was issue #1753 which
+was causing sprite-selector-item's close button to overlap the sprite-selector action-menu. I fixed this issue 
+by changing the z-index of the different elements around so no more overlapping occurred.
+
+The next issue I worked on was issue #1702 which was asking for 'random direction' option to be added to the dropdown 
+menu for the 'point towards' block. I implemented a fix for this issue, but because the fix required editing of code accross 
+the gui repo and the VM repo, one of the head contributers told me to wait until next week as they will be 
+consolodating the code into one repo. 
